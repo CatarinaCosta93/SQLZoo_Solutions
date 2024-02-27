@@ -1,3 +1,0 @@
-# SQLZoo_Solutions
-
-SEL
